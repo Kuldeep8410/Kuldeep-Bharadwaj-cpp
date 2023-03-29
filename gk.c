@@ -4,7 +4,7 @@ int main()
     int i;
     for(i=1;i<=100;i++)
     {
-    printf("shantu pandhey is our star\t");
+    printf("shantanu pandhey is our mega star\t");
     }
     return 0;
 }
